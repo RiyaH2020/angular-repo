@@ -1,0 +1,40 @@
+#form1{
+    position: absolute;
+    top:150px;
+    left:420px;
+    border:5px solid teal;
+    border-radius: 10pt;
+    box-shadow:5px 5px 5px 5px yellowgreen;
+    height:300px;
+    width: 500px;
+    padding-top: 30px;
+    padding-left: 150px;
+    box-sizing: border-box;
+}
+
+#f1{
+    padding-top: 10px;
+    padding-left: 10px;
+    border:1px solid black;
+    height: 20px;
+    display:flex;
+}
+
+#s1{
+    position:absolute;
+    left:220px;
+    top:200px;
+    height: 30px;
+}
+#c1
+{
+    position: absolute;
+    top:470px;
+    left:450px;  
+    display: inline-block;
+}
+#c1 img
+{ 
+    padding-left: 20px;
+
+}

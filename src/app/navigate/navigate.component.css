@@ -1,0 +1,29 @@
+#nav{
+    position: sticky;
+    background-color:green;
+    width:1350px;
+    height: 40px;
+    box-sizing: border-box;
+}
+#nav ul li img
+{
+    padding-left: 900px;
+
+}
+#nav ul li a
+{
+    text-decoration: none;
+    color: yellow;
+
+}
+#nav ul li
+{   
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+#nav ul li a:hover{
+    color: whitesmoke;
+}

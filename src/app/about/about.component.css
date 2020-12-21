@@ -1,0 +1,12 @@
+#txt2{
+    position:absolute;
+    top:100px;
+    left:200px;
+    height:250px;
+    width:1000px;
+    box-sizing: border-box;
+    border:5px solid teal;
+    border-radius: 10pt;
+    box-shadow: 5px 5px 5px 5px yellowgreen;
+    text-align: center;
+}
